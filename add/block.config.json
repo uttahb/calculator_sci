@@ -1,0 +1,20 @@
+{
+  "blockId": "hZ925e9lZRYqLj9eQHtCr",
+  "name": "add",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_add"
+  },
+  "parentBlockIDs": [
+    "2YKFj7qAbBrUGPqVQjXb-"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}

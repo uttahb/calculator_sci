@@ -1,0 +1,21 @@
+{
+  "name": "calculator",
+  "type": "package",
+  "blockId": "2YKFj7qAbBrUGPqVQjXb-",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_calculator"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "add": {
+      "directory": "add"
+    }
+  }
+}
