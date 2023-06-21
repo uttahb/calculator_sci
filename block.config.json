@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "2YKFj7qAbBrUGPqVQjXb-",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/uttahb/calculator_sci.git",
+    "ssh": "git@github.com:uttahb/calculator_sci.git",
     "branch": "block_calculator"
   },
   "parentBlockIDs": [],
